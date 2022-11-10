@@ -12,6 +12,7 @@ public class Main {
             System.out.println(people.getContent());
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 
